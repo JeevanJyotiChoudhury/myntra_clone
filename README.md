@@ -3,7 +3,7 @@ Myntra.com clone deployed link :https://jazzy-selkie-afc155.netlify.app/
 
 This project is cloned in 5 days with a team of 5 members. We have tried to implement as many functionalities as possible. The tech stacks we have used are HTML, CSS and JavaScript.
 
-About: It is the one-stop shopping website for babies, kids and also moms. Here you can find products related to their day-to-day needs. Starting from garments, toys and fooding also. Also, there are some accessories available.
+About: It is the largest e-commerce site in India for fashion and lifestyle items, promises to give customers all across the nation a hassle-free and joyful shopping experience.
 
 Some images of different pages of the website:
 
